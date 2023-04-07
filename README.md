@@ -26,7 +26,6 @@
 </p>
 
 ## 🐡 Stats
-
 [![GitHub Streak](https://streak-stats.demolab.com?user=DogeLovesHipster&theme=synthwave)](https://git.io/streak-stats)
 
 ![Sergio's GitHub stats](https://github-readme-stats.vercel.app/api?username=dogeloveshipster&show_icons=true&theme=synthwave)
