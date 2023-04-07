@@ -26,8 +26,18 @@
 </p>
 
 ## 🐡 Stats
-[![GitHub Streak](https://streak-stats.demolab.com?user=DogeLovesHipster&theme=synthwave)](https://git.io/streak-stats)
 
-![Sergio's GitHub stats](https://github-readme-stats.vercel.app/api?username=dogeloveshipster&show_icons=true&theme=synthwave)
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=DogeLovesHipster&theme=synthwave)
+<p align="center">
+  <img src="https://streak-stats.demolab.com?user=DogeLovesHipster&theme=synthwave" alt="GitHub Streak">
+</p>
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=dogeloveshipster&show_icons=true&theme=synthwave" alt="Sergio's GitHub stats">
+</p>
+
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=DogeLovesHipster&theme=synthwave" alt="Top Langs">
+</p>
+
