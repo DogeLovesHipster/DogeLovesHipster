@@ -1,4 +1,4 @@
-## 🧽 Hey there! I don't know why you're here, but I'm glad you are! My name is Sergio and I'm a 20 year old who just enjoys making computers go beep boop. 🧽
+## 🧽 Hey there! I don't know why you're here, but I'm glad you are! My name is Sergio and I'm a 21 year old who just enjoys making computers go beep boop. 🧽
 
 ### Changes need to be made here, but I've been busy making stuff go beep boop and my brain go brrr.
 
