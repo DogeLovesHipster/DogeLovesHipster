@@ -12,7 +12,3 @@
 <p align="center">
   <img src="https://streak-stats.demolab.com?user=DogeLovesHipster&theme=dark#gh-dark-mode-only)" alt="GitHub Contribution/Streak Banner for Dark Mode">
 </p>
-
-<p align="center">
-  <img src="https://streak-stats.demolab.com?user=DogeLovesHipster&theme=default#gh-light-mode-only)" alt="GitHub Contribution/Streak Banner for Light Mode">
-</p>
