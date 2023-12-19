@@ -1,43 +1,18 @@
-## 🧽 Hey there! I don't know why you're here, but I'm glad you are! My name is Sergio and I'm a 21 year old who just enjoys making computers go beep boop. 🧽
+# Hello, I'm Sergio Mendoza! 🧽
 
-### Changes need to be made here, but I've been busy making stuff go beep boop and my brain go brrr.
+<a>
+  <img align="center" src="https://raw.githubusercontent.com/DogeLovesHipster/DogeLovesHipster/main/github_banner_Main.png" alt="banner that says Sergio Mendoza - software developer, graphic designer, and scientist alongside a cartoon illustration of Sergio">
+</a>
 
-#
-## 🖥️ Languages I'm messing around with...
+---
+<p align="center" > <strong> I'm an Honors Student at Southern Oregon University Studying Environmental Science/Computer Science! Please feel free to connect! </strong> </p>
 
-<p align="center">
-<img style="display: inline; margin: 0 auto" alt="Cat" width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg">
-<img style="display: inline; margin: 0 auto" alt="Cat" width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg">
-<img style="display: inline; margin: 0 auto" alt="Cat" width="30px"  src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg">
-<img style="display: inline; margin: 0 auto" alt="Cat" width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg">
-<img style="display: inline; margin: 0 auto" alt="Cat" width="30px"  src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg">
-<img style="display: inline; margin: 0 auto" alt="Cat" width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg">
-<img style="display: inline; margin: 0 auto" alt="Cat" width="30px"src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg"/>
-</p>
-
-#
-## 🐱‍💻 Other skills
+<p align="center" > I'm also a software developer who is passionate about everything technology and environment related. Please feel free to visit my repos and inquire me about them! </p>
 
 <p align="center">
-<img style="display: inline; margin: 0 auto" alt="Cat" width="30px" style="padding-right:10px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/illustrator/illustrator-plain.svg" />
-<img style="display: inline; margin: 0 auto" alt="Cat" width="30px" style="padding-right:10px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/photoshop/photoshop-plain.svg" />
-<img style="display: inline; margin: 0 auto" alt="Cat" width="30px" style="padding-right:10px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/premierepro/premierepro-original.svg" />
-<img style="display: inline; margin: 0 auto" alt="Cat" width="30px" style="padding-right:10px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/aftereffects/aftereffects-original.svg" />
-</p>
-
-## 🐡 Stats
-
-
-<p align="center">
-  <img src="https://streak-stats.demolab.com?user=DogeLovesHipster&theme=synthwave" alt="GitHub Streak">
+  <img src="https://streak-stats.demolab.com?user=DogeLovesHipster&theme=dark#gh-dark-mode-only)" alt="GitHub Contribution/Streak Banner for Dark Mode">
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=dogeloveshipster&show_icons=true&theme=synthwave" alt="Sergio's GitHub stats">
+  <img src="https://streak-stats.demolab.com?user=DogeLovesHipster&theme=default#gh-light-mode-only)" alt="GitHub Contribution/Streak Banner for Light Mode">
 </p>
-
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=DogeLovesHipster&theme=synthwave" alt="Top Langs">
-</p>
-
